@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @dahar72
 - 
-- 👀 I’m interested in data sciences, and coding, I have worked with Java, Python and R primarily in the past. Java was learned first while I was in school, 
--   while Python and R came later while I was focusing more on data analysis.
+- 👀 I’m interested in data sciences, and coding, I have worked with Java, Python, SAS and R primarily in the past. Java and SAS were learned first while I was in school, while Python and R came later while I was focusing more on data analysis.
 - 
-- 🌱 I’m currently learning how to use R more effectively, and am learning how amazingly useful the tidyverse is.
+- 🌱 I currently hold a BS in Management Information System and Business Analytics with a specialization in Computer Programming from the Colorado State University, and am hoping to start working towards a Master's in Statistics. I have also studied through Google's Data Analytics Professional Certificate and have currently been learning how to use R more effectively, while simultaneously learning how amazingly useful the tidyverse package is.
 - 
 - 📫 I can be reached through my email at davidjharold94@gmail.com
 
